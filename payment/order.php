@@ -27,7 +27,7 @@
 $value = 120;
 
 /** @var  $currencyCode - Change this to any currency you support: https://docs.adyen.com/developers/currency-codes */
-$currencyCode = 'USD';
+$currencyCode = 'EUR';
 
 /** @array $amount - Amount is a combination of value and currency */
 $amount = [

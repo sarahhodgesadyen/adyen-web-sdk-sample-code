@@ -45,7 +45,7 @@ $shopperReference = 'example_shopper';
 $shopperLocale = 'en-US';
 
 /** @var $countryCode - The countrycode influences the returned payment methods */
-$countryCode = 'NL';
+$countryCode = 'US';
 
 /** @var $channel - the channel influences the returned payment methods (the same server can be used for iOS, Android and Point of sale */
 $channel = 'Web';
